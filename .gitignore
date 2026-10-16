@@ -233,3 +233,7 @@ pcm/
 *.wma
 *.aif
 *.aiff
+
+# Generated audio and release artifacts
+*.pcm
+release/
